@@ -31,6 +31,10 @@ When doing this exercise it may happen that some felt requirements are not reall
 - Measurement (how you measure it; to be able to keep track)
 - Common View (specify it in writing for both the team and the stakeholder)
 
+It's also important to deep dive into some of them. Are some actually a solutions to a problem? In that case, dig deeper so that you understand the problem the solution is solving and add the following to the requirement:
+
+- The problem this solution solves.
+
 How to figure it out is up to the team, but the recommended way is to work with the ones that comes from the stakeholder closest to the team and work their way away.
 
 ## Session 2 - Inside forces
