@@ -16,6 +16,8 @@ The goal is to get some focus to the team. This is done by looking at the team f
   - How do we behave
   - Load stars
   - Principles
+- Company
+  - Rules (adapt or confront)
 
 The above will be the base that the team then will use to setup some Objectives and Key Results.
 
@@ -40,3 +42,5 @@ How to figure it out is up to the team, but the recommended way is to work with 
 ## Session 2 - Inside forces
 
 **Goal:** Figure out what the internal goals are. Try to formulate them in a good manner.
+
+## Session 3 - Goals
